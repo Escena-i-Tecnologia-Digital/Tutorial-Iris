@@ -1,7 +1,7 @@
 Boolean isFade = false;
 
 void setup() {
- size(980, 900);
+  size(980, 900);
   background (0,50,249);
   noCursor();
 }

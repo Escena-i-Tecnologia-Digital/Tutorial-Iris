@@ -1,5 +1,5 @@
 void keyPressed() {
-if (key == 'f' || key == 'F') {
-     isFade =!isFade;
-    }
+  if (key == 'f' || key == 'F') {
+    isFade =!isFade;
+  }
 }
