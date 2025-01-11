@@ -1,0 +1,20 @@
+ _   _       _              _____ _____ _____ 
+| \ | |     | |            |  __ \_   _|_   _|
+|  \| | ___ | |_ __ _ ___  | |  \/ | |   | |  
+| . ` |/ _ \| __/ _` / __| | | __  | |   | |  
+| |\  | (_) | || (_| \__ \ | |_\ \_| |_  | |  
+\_| \_/\___/ \__\__,_|___/  \____/\___/  \_/  
+                                              
+                                              
+
+Iniciar git         -> git init
+Visualizar Cambios  -> git status
+Visualizar Historia -> git log
+Añadir Cambios      -> git add .
+Commitear Cambios   -> git commit -m "NOMBRE DEL COMMIT"
+
+
+REMOTO SOLO
+
+Añadir Remoto          -> git remote add [NOMBRE REMOTO=origin] [URL]
+Subir Cambios a Remoto -> git push [NOMBRE REMOTO=origin] [TU RAMA=master]
