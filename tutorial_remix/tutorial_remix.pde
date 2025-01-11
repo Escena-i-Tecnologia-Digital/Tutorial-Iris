@@ -24,6 +24,7 @@ void draw() {
     fill(#A9DEF9);
   }
   rect(mouseX, mouseY, 10, 80);
+   //aqui pondre una imagen
    rect(mouseX-40, mouseY-40, 80, 100);
    fill(0,0,0,50);
 }
